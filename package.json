@@ -1,0 +1,23 @@
+{
+  "name": "hangman-nodejs",
+  "version": "1.0.0",
+  "description": "Work with a partner to implement the following user story:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/hangman-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/hangman-nodejs/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/hangman-nodejs#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
